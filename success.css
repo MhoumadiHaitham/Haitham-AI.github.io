@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {}
+
+.form {
+    margin-top: 350px;
+    font-size: 12px;
+
+}
+
+.form h1 {
+    margin-left: 35%;
+}
+
+.form h2 {
+    margin-left: 36%;
+    font-size: 15px;
+    color: rgb(53, 52, 52);
+
+}
+
+.ok {
+    width: 80px;
+    margin-top: 10%;
+    margin-left: 45%;
+    border-radius: 8px;
+    background-color: rgb(11, 98, 104);
+    color: white;
+    text-decoration-line: none;
+    padding: 6px;
+    font-size: 17px;
+    cursor: pointer;
+
+}
+
+.ok a {
+    color: black;
+    text-decoration: none;
+}
+
+.succ {
+    margin-top: -310px;
+    width: 1px;
+    margin-left: 40%;
+    padding: -100%;
+}
